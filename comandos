@@ -1,0 +1,7 @@
+comandos utilizados nessa api:
+
+npm init
+npm i express --save 
+npm i mysql 
+npm run dev
+
